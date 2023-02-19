@@ -1,0 +1,19 @@
+{{render_template(title=title)}}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>{{title}}</title>
+  </head>
+  <body>
+      <h1> This Heading is part of template </h1>
+      <p>This text is part of template </p>
+        <div class="container">
+            {{content}}
+        </div>
+      <h2>Links</h2>
+      <ul>
+          <li><a href="/led_on">LED on</a></li>
+          <li><a href="/led_off">LED off</a></li>
+      </ul>
+  </body>
+</html>

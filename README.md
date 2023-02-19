@@ -1,6 +1,8 @@
 # pico
 collection of Raspberry Pi Pico programs
 
+## My Examples
+- [Getting Started](./0-getting_started/)
 ## Assorted Resources
 - [Official Getting Started Guide](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0)
 - [Offical Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)

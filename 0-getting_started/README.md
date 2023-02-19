@@ -5,6 +5,7 @@
 ## Install Firmware
 [install firmware](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3)
 
+# Turn on and off the onboard LED
 ```python
 # Import machine module
 from machine import Pin

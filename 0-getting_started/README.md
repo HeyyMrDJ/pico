@@ -5,7 +5,7 @@
 ## Install Firmware
 [install firmware](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3)
 
-'''
+'''python
 # Import machine module
 from machine import Pin
 
@@ -23,4 +23,3 @@ led.off()
 # OR use the below to toggle on/off
 led.toggle()
 '''
-

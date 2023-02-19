@@ -1,4 +1,5 @@
 # Getting started
+Note: To automatically run your programs on the pico when it boots you must save your python script as main.py
 ## Install Thonny
 [Install Thonny](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/2)
 

@@ -3,6 +3,8 @@ collection of Raspberry Pi Pico programs
 
 ## My Examples
 - [Getting Started](./0-getting_started/)
+- [Create a simple webserver](./1-webserver)
+- [LCD examples](./2-lcd_text)
 
 ## Assorted Resources
 - [Official Getting Started Guide](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0)

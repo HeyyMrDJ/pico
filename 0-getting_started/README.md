@@ -7,6 +7,9 @@ Note: To automatically run your programs on the pico when it boots you must save
 [install firmware](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3)
 
 ## Turn on and off the onboard LED
+![LED On](../images/led_on.jpg)
+![LED Off](../images/led_off.jpg)
+
 ```python
 # Import machine module
 from machine import Pin
